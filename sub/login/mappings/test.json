@@ -1,0 +1,18 @@
+{
+  "request":{
+    "url":"/api/login/login",
+    "method":"GET",
+    "urlPattern": "/test/1/test"
+
+  },
+  "response":{
+    "status":200,
+    "jsonBody":{
+      "test": "文件夹"
+    },
+    "headers":{
+      "Content-type": "application/json"
+    }
+
+  }
+}

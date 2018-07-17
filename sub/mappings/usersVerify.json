@@ -1,0 +1,17 @@
+{
+  "request":{
+    "url":"/api/users/verify",
+    "method":"POST",
+    "urlPattern": "/test/1/test"
+
+  },
+  "response":{
+    "status":200,
+    "jsonBody":{
+      "type": true
+    },
+    "headers":{
+      "Content-type": "application/json"
+    }
+  }
+}

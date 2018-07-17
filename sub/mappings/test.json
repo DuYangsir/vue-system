@@ -1,0 +1,18 @@
+{
+  "request":{
+    "url":"/api/add",
+    "method":"GET",
+    "urlPattern": "/test/1/test"
+
+  },
+  "response":{
+    "status":200,
+    "jsonBody":{
+      "test": "测试成功"
+    },
+    "headers":{
+      "Content-type": "application/json"
+    }
+
+  }
+}
