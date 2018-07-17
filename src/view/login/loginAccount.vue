@@ -62,7 +62,7 @@
 
       </div>
       <div class="footer">
-        <p>©2016 上海微兆信息科技有限公司</p>
+        <p>©2016 </p>
       </div>
   </div>
 </template>

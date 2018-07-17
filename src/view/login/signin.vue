@@ -25,7 +25,7 @@
           <li><a href="javascript:void(0);">联系我们</a></li>
           <li><a href="javascript:void(0);">法律声明</a></li>
         </ul>
-        <p>©2016 上海微兆信息科技有限公司</p>
+        <p>©2016 </p>
       </div>
   </div>
 </template>
